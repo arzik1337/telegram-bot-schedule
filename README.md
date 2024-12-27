@@ -20,7 +20,7 @@
 ## Установка и запуск
 
 1. Клонировать репозиторий:
-   git clone https://github.com/yourusername/solutorbot.git
+   git clone https://github.com/arzik1337/telegram-bot-schedule.git
    
 2. Перейти в директорию проекта
    
